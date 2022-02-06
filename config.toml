@@ -1,0 +1,4 @@
+baseURL = 'https://slaanesh.org/'
+languageCode = 'en-us'
+title = 'killruana'
+theme = "xmin"
