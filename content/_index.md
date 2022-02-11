@@ -10,6 +10,7 @@ I am a Libre and open-source enthusiast since my ~15. Thank to jujun<, I've disc
 
 Since my reading of The Circle by D. Eggers, I have deleted most of my GAFAM accounts. This book is terrifying! I think that everybody should read it. There are always these 2 GMail addresses ,'cause it's hard to update everywhere… But maybe one day!
 
+* [Links to others sites](links/)
 * [My blog](posts/)
 * [My projects](projects/)
 * [CV](cv/) 
