@@ -18,5 +18,5 @@ Since my reading of The Circle by D. Eggers, I have deleted most of my GAFAM acc
 
 You can send me a mail at the following. I read all my mails that does not arrive in the spam folder, but I answer according to my motivation…
 
-* [My email address](mailto://killruana+contact@slaanesh.org) 
-* [My PGP key](/files/killruana_at_slaanesh_dot_org_0x70F6C5F586C49387_pub.asc)
+* [My email address](mailto://jonathan.tremesaygues+contact@slaanesh.org) 
+* [My PGP key](/files/jonathan_dot_tremesaygues_at_slaanesh.org_0xAAE7B9035CC08664_pub.asc)
